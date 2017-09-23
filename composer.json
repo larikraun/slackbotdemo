@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "SlackBotDemo\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "coderstephen/slack-client": "^0.3.0"
+  }
+}
