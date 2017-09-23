@@ -5,6 +5,7 @@
  * Date: 9/23/17
  * Time: 4:23 PM
  */
+require ("./vendor/autoload.php");
 $loop = React\EventLoop\Factory::create();
 
 $client = new \Slack\RealTimeClient($loop);
