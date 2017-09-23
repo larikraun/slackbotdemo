@@ -2,6 +2,8 @@
 
 ### This is the source code from my Building SlackBots From Scratch session at the ForLoopWomen 2.0 (23rd of September, 2017)
 
+The idea we worked with was to query the database for upcoming forloopwomen events.
+
 To run the project:
 
  * Clone the project
