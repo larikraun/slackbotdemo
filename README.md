@@ -12,6 +12,6 @@ To run the project:
 [Here](https://docs.google.com/presentation/d/1qMekP8WnqnAq-OHre1x5RkRezG-kTbvUNEkRcWQ97gc/edit?usp=sharing) is the link to my slide for the event
 
 
-##### For any issues or clarity, [tweet](www.twitter.com/_larikraun) at me or create an issue
+##### For any issues or clarity, [tweet](https://twitter.com/_larikraun) at me or create an issue
 
 #### The project was built on [Sagebind's slack-client](https://github.com/sagebind/slack-client)
