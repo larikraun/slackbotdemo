@@ -11,7 +11,7 @@ To run the project:
  * Create a bot user on slack and copy the API TOKEN that was given
  * Create a database ```slackbotdemo``` and import the slackbotdemo.sql file included in the project
 
-[Here](https://docs.google.com/presentation/d/1qMekP8WnqnAq-OHre1x5RkRezG-kTbvUNEkRcWQ97gc/edit?usp=sharing) is the link to my slide for the event
+[Here](https://speakerdeck.com/larikraun/building-slackbots-from-scratch) is the link to my slide for the event
 
 
 ##### For any issues or clarity, [tweet](https://twitter.com/_larikraun) at me or create an issue
